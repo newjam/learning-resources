@@ -10,6 +10,7 @@ A collection of tutorials, articles, explainations etc.
 Libraries
 
 [Ractive](http://www.ractivejs.org/) Pros: virtual DOM using mustache templates, Cons: Composition looks difficult
+
 [React](http://facebook.github.io/react/) Pros: great concept of components, Cons: still not sold on abandoning templates.
 
 
